@@ -24,10 +24,10 @@
         "paincreamdsc": "A small 100ml bottle used to hold relief cream. Dosage is 10ml.",
         "morphine": "Morphine syringe",
         "morphinedsc": "A 100ml syringe that can inject fluid intravenously. The overdose label reads 88ml.",
-        "makeshiftlrd": "Makeshift L.R.D.",
-        "makeshiftlrddsc": "A makeshift Localized Resuscitation Device. Looks like it's taped together. Increases the muscle health and disinfects limb it's used on, AND any directly adjacent limbs. Slightly reduces internal bleeding if used on the chest. Requires atleast 25mL of LRD serum to function.",
-        "lrd": "L.R.D.",
-        "lrddsc": "A Localized Resuscitation Device, made to easily provide effective general trauma care. Increases limb health, slows bleeding, provides pain relieving drugs and disinfects the limb it's used on, along with any adjacent limbs. Highly reduces internal bleeding if used on the chest. Requires atleast 25mL of LRD serum to function.",
+        "makeshiftlrd": "Primitiv L.Å.E.",
+        "makeshiftlrddsc": "En Primitiv Lokalt Återupplivningsenhet. Looks like it's taped together. Increases the muscle health and disinfects limb it's used on, AND any directly adjacent limbs. Slightly reduces internal bleeding if used on the chest. Requires atleast 25mL of LRD serum to function.",
+        "lrd": "L.Å.E.",
+        "lrddsc": "En Lokalt Återupplivningsenhet, made to easily provide effective general trauma care. Increases limb health, slows bleeding, provides pain relieving drugs and disinfects the limb it's used on, along with any adjacent limbs. Highly reduces internal bleeding if used on the chest. Requires atleast 25mL of LRD serum to function.",
         "opium": "Opium syringe",
         "opiumdsc": "A 100ml syringe that can inject fluid intravenously. The overdose label says 200ml.",
         "heroin": "Heroin syringe",
@@ -2942,7 +2942,7 @@
                 "Ouch!",
                 "Oww...",
                 "Ouchhh...",
-                "This hurts...",
+                "Detta gör ont!",
                 "This hurts!",
                 "Agh!",
                 "YELP!",
@@ -2984,7 +2984,7 @@
             "hitgroundhard": [
                 "Agh!",
                 "Gack!",
-                "Fuck!",
+                "Fan!",
                 "Augh!",
                 "Ghagh!",
                 "Ugh!",
@@ -2995,7 +2995,7 @@
                 "Nffgh...",
                 "Aaawgh!",
                 "Ngghhh...",
-                "Ough!"
+                "Aj!"
             ],
             "bigpain": [
                 "OW!!!",
@@ -3004,25 +3004,25 @@
                 "AUUGHNN!",
                 "OOAUAUGHHH!",
                 "NHHGHH!",
-                "FUUUCK!",
+                "JÄVLAR!",
                 "OOOWHHG!",
                 "NHHGFFF!",
                 "GAAH!",
-                "HELP! AAHG!",
+                "HJÄLP! AAAJ!",
                 "OWW!!!!",
                 "OOUUUUCH!",
                 "GGHHHBN...",
-                "HEELPPP!",
+                "HJÄÄLPPP!",
                 "AAAH!",
-                "FUCK!",
-                "CRAP!!!",
+                "FAN FAN FAN!",
+                "NEJ NEJ!!!",
                 "AHHH!!!",
-                "HELP!!!",
+                "HJÄLP!!!",
                 "NGHH!",
                 "AGH...",
-                "PLEASE!!",
-                "STOP!!!",
-                "DAMN IT!!!"
+                "VARFÖR!!",
+                "STOPP!!!",
+                "FAN TA MIG!!!"
             ],
             "fallscream": [
                 "AAAAH!!",
@@ -3134,7 +3134,7 @@
                 "Hoarding a little too much... All this gear is heavy."
             ],
             "watchlike": [
-                "I like this watch-thing. It's comfy."
+                "Jag gillar den här klockan. Den ser fin ut."
             ],
             "drillend": [
                 "...That took a while.",
