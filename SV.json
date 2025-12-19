@@ -1,6 +1,6 @@
 {
     "name": "Svenska",
-    "description": "Den svenska översättningen för Scav Prototype, skapad och underhållen av Cleo. Du kan hitta andra språkinställningar här: (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>)",
+    "gameVer": 5,
     "main": {
         "bandage": "Dressing",
         "bandagedsc": "A roll of dressing with a bandage, used to slow down bleeding, stabilize fractures and aid skin healing. Has no effect on muscle health.",
